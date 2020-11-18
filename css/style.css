@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+#container {
+    padding-top: 5vh;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    font-family: Courier;
+}
+
+#container #input {
+    text-align: left;
+    padding: 1vh;
+    margin: 1vh 1vh 1vh 1vh;
+}
+
+#container #result {
+    text-align: center;
+    padding: 1vh;
+    margin: 1vh 1vh 1vh 1vh;
+}

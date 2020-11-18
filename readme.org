@@ -1,0 +1,5 @@
+#+TITLE: Readme
+
+Glutamyl transferase decialotransferrin index calculator.
+
+Link: https://malmgrek.github.io/gtcdt-index/
