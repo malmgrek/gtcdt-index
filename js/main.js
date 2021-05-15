@@ -49,7 +49,7 @@ function createCalculator(d) {
 
     // Input fields
     const a = createField("input", false, "P-GT")
-    const b = createField("input", false, "S-CDT")
+    const b = createField("input2", false, "S-CDT")
 
     const updateResult = () => {
         const pgt = parseFloat(a.value)
