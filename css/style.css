@@ -16,13 +16,13 @@ body {
     font-family: Courier;
 }
 
-#input, #input2 {
+#a #b {
     text-align: left;
     padding: 1vh;
     margin: 1vh 1vh 1vh 1vh;
 }
 
-#container #result {
+#c {
     text-align: center;
     padding: 1vh;
     margin: 1vh 1vh 1vh 1vh;

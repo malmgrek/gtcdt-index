@@ -44,12 +44,12 @@ function createCalculator(d) {
         return input
     }
 
-    // Result field
-    const c = createField("result", true, "GT-CDT")
-
     // Input fields
-    const a = createField("input", false, "P-GT")
-    const b = createField("input2", false, "S-CDT")
+    const a = createField("a", false, "P-GT")
+    const b = createField("b", false, "S-CDT")
+
+    // Result field
+    const c = createField("c", true, "GT-CDT")
 
     const updateResult = () => {
         const pgt = parseFloat(a.value)
