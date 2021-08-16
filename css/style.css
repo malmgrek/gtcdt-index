@@ -16,7 +16,7 @@ body {
     font-family: Courier;
 }
 
-#container #input {
+#input, #input2 {
     text-align: left;
     padding: 1vh;
     margin: 1vh 1vh 1vh 1vh;
